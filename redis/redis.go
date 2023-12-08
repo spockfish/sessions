@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/snowdreamtech/redistore"
-	"github.com/gin-contrib/sessions"
+	"github.com/spockfish/sessions"
 	"github.com/gomodule/redigo/redis"
 )
 
